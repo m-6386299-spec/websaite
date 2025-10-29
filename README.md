@@ -129,7 +129,7 @@
     <h2>Segmen 1: Sejarah UUM</h2>
     <p>Segmen ini memaparkan perjalanan penubuhan Universiti Utara Malaysia sejak tahun 1984. Dari kampus sementara di Jitra hingga ke kampus indah Sintok hari ini, UUM terus berkembang sebagai pusat kecemerlangan pengurusan.</p>
     <audio controls>
-      <source src="audio/segmen1.mp3" type="audio/mpeg">
+      <source src="audiosegmen1.mp3" type="audio/mpeg">
       Browser anda tidak menyokong audio.
     </audio>
     <a href="#home" class="back-top">⬆ Kembali ke atas</a>
@@ -140,7 +140,7 @@
     <h2>Segmen 2: Inovasi dan Teknologi</h2>
     <p>Pameran ini menyoroti pelbagai inovasi yang dicipta oleh warga universiti dalam bidang teknologi dan penyelidikan, memperlihatkan kemajuan UUM dalam era digital.</p>
     <audio controls>
-      <source src="audio/segmen2.mp3" type="audio/mpeg">
+      <source src="audiosegmen2.mp3" type="audio/mpeg">
       Browser anda tidak menyokong audio.
     </audio>
     <a href="#home" class="back-top">⬆ Kembali ke atas</a>
